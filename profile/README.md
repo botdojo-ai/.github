@@ -1,5 +1,17 @@
+<style>
+  .botdojo-logo {
+    display: block;
+    margin: 0 auto;
+  }
+  @media (prefers-color-scheme: dark) {
+    .botdojo-logo {
+      filter: brightness(0) invert(1);
+    }
+  }
+</style>
+
 <div align="center">
-  <img src="https://www.botdojo.com/assets/images/botdojo_logo.svg" alt="BotDojo Logo" width="200" />
+  <img src="https://www.botdojo.com/assets/images/botdojo_logo.svg" alt="BotDojo Logo" width="200" class="botdojo-logo" />
   
   # BotDojo
   
