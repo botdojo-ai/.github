@@ -1,7 +1,8 @@
 <div align="center">
-  <div style="display: inline-block; background-color: white; padding: 15px 20px; border-radius: 8px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
     <img src="https://www.botdojo.com/assets/images/botdojo_logo.svg" alt="BotDojo Logo" width="200" />
-  </div>
+  </picture>
   
   ### Build, Monitor, and Improve Production-Ready AI Agents
   
